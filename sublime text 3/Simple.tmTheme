@@ -11,9 +11,9 @@
 	<key>name</key>
 	<string>Simple</string>
 	<key>comment</key>
-	<string></string>
+	<string>https:&#x2f;&#x2f;github.com&#x2f;zhang0xin&#x2f;IDE</string>
 	<key>semanticClass</key>
-	<string>theme.dark.3024_night</string>
+	<string>theme.light.simple</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
